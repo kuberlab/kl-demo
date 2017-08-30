@@ -3,8 +3,3 @@
   Name: kl-demo
   Provider: amazon
   Src: kl-demo.yaml
-- Account: keberlab-test
-  AutoDeploy: false
-  Name: kl-google
-  Provider: google
-  Src: kl-google.yaml
