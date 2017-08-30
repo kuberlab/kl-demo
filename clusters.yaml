@@ -3,3 +3,8 @@
   Name: gce
   Provider: google
   Src: gce.yaml
+- Account: keberlab-test
+  AutoDeploy: false
+  Name: aws
+  Provider: google
+  Src: aws.yaml
