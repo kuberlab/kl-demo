@@ -1,1 +1,5 @@
-[]
+- Account: keberlab-test
+  AutoDeploy: false
+  Name: gce
+  Provider: google
+  Src: gce.yaml
